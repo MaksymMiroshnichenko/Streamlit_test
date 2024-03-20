@@ -4,6 +4,7 @@ import streamlit as st
 
 URL = 'http://127.0.0.1:8000/get-news/'
 
+
 class Company(Enum):
     provectus = 'Provectus'
     corcentric = 'Corcentric'
